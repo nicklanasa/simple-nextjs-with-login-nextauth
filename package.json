@@ -1,0 +1,24 @@
+{
+  "name": "test-react",
+  "version": "1.0",
+  "description": "Test react js site with next.js and next.js auth",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 3001",
+    "build": "next build",
+    "lint": "next lint",
+    "prettier": "prettier -write"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.4",
+    "next": "^13.0.7",
+    "next-auth": "^4.18.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-next": "^13.0.7",
+    "prettier": "^2.8.1"
+  }
+}
