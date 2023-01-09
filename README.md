@@ -2,8 +2,8 @@
 
 https://www.youtube.com/watch?v=oJEAF2mns2I
 
-## Getting start
+## Getting started
 
 1. Clone this repo
-2. Run "npm install"
-3. Run "npm run dev"
+2. Run **npm install**
+3. Run **npm run dev**
